@@ -15,11 +15,11 @@ The onset of spring is important for the dynamics of the Earth system and a vari
 
 ## Data
 + Berkeley Earth Surface Temperature project (BEST) : [[DATA]](http://berkeleyearth.org/data/)
-    + Rohde, R. and Coauthors (2013) Berkeley earth temperature averaging process. Geoinform Geostat Overv. doi:10.4172/2327-4581.1000103, [[Publication]](http://www.scitechnol.com/2327-4581/2327-4581-1-103.php)
+    + Rohde, R. and Coauthors (2013) Berkeley earth temperature averaging process. Geoinform Geostat Overv. doi:10.4172/2327-4581.1000103 [[Publication]](http://www.scitechnol.com/2327-4581/2327-4581-1-103.php)
 + CESM Large Ensemble Project (LENS) : [[DATA]](http://www.cesm.ucar.edu/projects/community-projects/LENS/data-sets.html)
     + Kay, J. E and Coauthors, 2015: The Community Earth System Model (CESM) large ensemble project: A community resource for studying climate change in the presence of internal climate variability. Bull. Amer. Meteor. Soc., 96, 1333–1349, doi:10.1175/BAMS-D-13-00255.1 [[Publication]](http://journals.ametsoc.org/doi/full/10.1175/BAMS-D-13-00255.1)
 + Spring Indices (SI) : [[DATA]](http://ecrl.eas.cornell.edu/node/11)
-    + Ault, T.R., Mark D. Schwartz, Raul Zurita-Milla, Jake F. Weltzin, and Julio L. Betancourt, 2015: Trends and Natural Variability of Spring Onset in the Coterminous United States as Evaluated by a New Gridded Dataset of Spring Indices. J. Climate, 28, 8363–8378, doi:http://dx.doi.org/10.1175/JCLI-D-14-00736.1 [[Publication]](https://journals.ametsoc.org/doi/10.1175/JCLI-D-14-00736.1)
+    + Ault, T.R., Mark D. Schwartz, Raul Zurita-Milla, Jake F. Weltzin, and Julio L. Betancourt, 2015: Trends and Natural Variability of Spring Onset in the Coterminous United States as Evaluated by a New Gridded Dataset of Spring Indices. J. Climate, 28, 8363–8378, doi:10.1175/JCLI-D-14-00736.1 [[Publication]](https://journals.ametsoc.org/doi/10.1175/JCLI-D-14-00736.1)
 
 ## Model
 + Extended Spring Indices Model (SI-x) : [[CODE]](https://github.com/cornell-eas/SI-X)
