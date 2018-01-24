@@ -26,10 +26,10 @@ The onset of spring is important for the dynamics of the Earth system and a vari
     + Ault, T. R., Zurita-Milla, R., & Schwartz, M. D., 2015: A Matlab© toolbox for calculating spring indices from daily meteorological data. Computers & Geosciences, 83, 46-53, doi.org/10.1016/j.cageo.2015.06.015 [[Publication]](https://www.sciencedirect.com/science/article/pii/S0098300415001466)
 
 ## Refereed/Peer-Reviewed Publications:
-+ [1] **Labe, Z.M.**, T.R. Ault, and R. Zurita-Milla (2016), Identifying Anomalously Early Spring Onsets in the CESM Large Ensemble Project, R. Clim Dyn, DOI:10.1007/s00382-016-3313-2. [[HTML]](https://link.springer.com/article/10.1007/s00382-016-3313-2) [[PDF]](http://sites.uci.edu/zlabe/files/2016/08/LabeZM_CDY_2016.pdf) [[BibTeX]](http://sites.uci.edu/zlabe/files/2016/08/CESMspring_2016_bib.pdf)
++ **Labe, Z.M.**, T.R. Ault, and R. Zurita-Milla (2016), Identifying Anomalously Early Spring Onsets in the CESM Large Ensemble Project, R. Clim Dyn, DOI:10.1007/s00382-016-3313-2. [[HTML]](https://link.springer.com/article/10.1007/s00382-016-3313-2) [[PDF]](http://sites.uci.edu/zlabe/files/2016/08/LabeZM_CDY_2016.pdf) [[BibTeX]](http://sites.uci.edu/zlabe/files/2016/08/CESMspring_2016_bib.pdf)
 
 ## Non-refereed/Other Publications:
-+ [1] **Labe, Z.M.**, April 2015: Anomalously Early Onset of Spring in the CESM Large Ensemble. Cornell University. *Undergraduate Honors Thesis*. [[PDF]](http://sites.uci.edu/zlabe/files/2015/11/Labe_Thesis2015.pdf)
++ **Labe, Z.M.**, April 2015: Anomalously Early Onset of Spring in the CESM Large Ensemble. Cornell University. *Undergraduate Honors Thesis*. [[PDF]](http://sites.uci.edu/zlabe/files/2015/11/Labe_Thesis2015.pdf)
 
 ## Conferences
-+ [1] **Labe, Z.M.** and T.R. Ault. Anomalously Early Onset of Spring in the CESM Large Ensemble Project, *95th American Meteorological Society Annual Meeting*, Phoenix, AZ (Jan 2015). [[Abstract]](https://ams.confex.com/ams/95Annual/webprogram/Paper271063.html) [[Poster]](http://sites.uci.edu/zlabe/files/2015/11/Labe2015_AMS.pdf)
++ **Labe, Z.M.** and T.R. Ault. Anomalously Early Onset of Spring in the CESM Large Ensemble Project, *95th American Meteorological Society Annual Meeting*, Phoenix, AZ (Jan 2015). [[Abstract]](https://ams.confex.com/ams/95Annual/webprogram/Paper271063.html) [[Poster]](http://sites.uci.edu/zlabe/files/2015/11/Labe2015_AMS.pdf)
