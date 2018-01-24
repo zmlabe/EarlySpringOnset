@@ -1,4 +1,4 @@
-# EarlySpringOnset
+# EarlySpringOnset [![DOI](https://zenodo.org/badge/118796871.svg)](https://zenodo.org/badge/latestdoi/118796871)
 Evaluating anomalously early spring onsets in the 21st century
 
 ###### Under construction... ```[Python 2.7]```
