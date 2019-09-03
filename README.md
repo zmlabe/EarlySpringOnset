@@ -28,7 +28,7 @@ The onset of spring is important for the dynamics of the Earth system and a vari
     + Ault, T. R., Zurita-Milla, R., & Schwartz, M. D., 2015: A Matlab© toolbox for calculating spring indices from daily meteorological data. Computers & Geosciences, 83, 46-53, doi.org/10.1016/j.cageo.2015.06.015 [[Publication]](https://www.sciencedirect.com/science/article/pii/S0098300415001466)
 
 ## Refereed/Peer-Reviewed Publications:
-+ **Labe, Z.M.**, T.R. Ault, and R. Zurita-Milla (2016), Identifying Anomalously Early Spring Onsets in the CESM Large Ensemble Project, R. Clim Dyn, DOI:10.1007/s00382-016-3313-2. [[HTML]](https://link.springer.com/article/10.1007/s00382-016-3313-2) [[PDF]](http://sites.uci.edu/zlabe/files/2016/08/LabeZM_CDY_2016.pdf) [[BibTeX]](http://sites.uci.edu/zlabe/files/2016/08/CESMspring_2016_bib.pdf)
++ **Labe, Z.M.**, T.R. Ault, and R. Zurita-Milla (2016), Identifying Anomalously Early Spring Onsets in the CESM Large Ensemble Project, R. Clim Dyn, DOI:10.1007/s00382-016-3313-2. [[HTML]](https://link.springer.com/article/10.1007/s00382-016-3313-2) [[PDF]](https://link.springer.com/content/pdf/10.1007%2Fs00382-016-3313-2.pdf) [[BibTeX]](http://sites.uci.edu/zlabe/files/2016/08/CESMspring_2016_bib.pdf)
 
 ## Non-refereed/Other Publications:
 + **Labe, Z.M.**, April 2015: Anomalously Early Onset of Spring in the CESM Large Ensemble. Cornell University. *Undergraduate Honors Thesis*. [[PDF]](http://sites.uci.edu/zlabe/files/2015/11/Labe_Thesis2015.pdf)
