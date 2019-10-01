@@ -36,9 +36,9 @@ tmin = T.tempunits(tmin,'C','F')
 tmax = T.tempunits(tmax,'C','F')
 
 ### Extract Particular Dates
-tmax = tmax[62:93,:,:]
+tmax = tmax[62:94,:,:]
 
-doy = list(xrange(62,93))
+doy = list(xrange(62,94))
 
 ### Basemap Plot Temperature
 for i in xrange(len(doy)):
@@ -49,7 +49,7 @@ for i in xrange(len(doy)):
     m.drawstates()
     m.drawcountries()
     m.drawmapboundary(fill_color = 'white')
-    m.drawcoastlines(color='black',linewidth=0.5)
+    m.drawcoastlines(color='black',linewidth=1.0)
     m.drawlsmask(land_color='grey',ocean_color='w')
     x,y = m(lon,lat)
     cs = m.contourf(x,y,tmax[i],range(-5,100,2))
